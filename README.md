@@ -2,10 +2,6 @@
 
 Este projeto é uma implementação de um carrossel de imagens utilizando HTML, CSS e JavaScript. Ele permite a navegação entre diferentes imagens de forma interativa e responsiva.
 
-## Demonstração
-
-![Demonstração do Carrossel](Imagens/demonstracao.gif)
-
 ## Funcionalidades
 
 - Transição suave entre imagens.
